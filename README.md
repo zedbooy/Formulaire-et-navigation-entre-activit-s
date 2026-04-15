@@ -8,7 +8,9 @@ A simple, beginner-friendly Android application built with Java and XML. This ap
 
 ## App Screenshot
 <!-- Replace the placeholder below with the path to your actual app screenshot -->
-![App Screenshot](PLACEHOLDER_FOR_SCREENSHOT_PATH)
+<img width="480" height="939" alt="image" src="https://github.com/user-attachments/assets/2d9c2a4e-7aef-4c21-9be3-1e21e77c7659" />
+<img width="480" height="939" alt="image" src="https://github.com/user-attachments/assets/86e570bc-2091-4edf-b18d-50cfca0e7d24" />
+
 
 ## Features
 - Form validation (Nom & Email are mandatory).
